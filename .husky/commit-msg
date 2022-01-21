@@ -1,4 +1,4 @@
 #!/bin/sh
-. "$(dirname "$0")/_/husky.sh"
+#. "$(dirname "$0")/_/husky.sh"
 
-commitlint -c .commitlintrc.json --edit $1
+#commitlint -c .commitlintrc.json --edit $1
